@@ -1,0 +1,8 @@
+{
+  "data":[
+    { "url": "https://www.w3school.com.cn/example/html5/mov_bbb.mp4", "type": "video" },
+    { "url": "https://img-blog.csdnimg.cn/20210823171755669.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xwbGo3MTc=,size_16,color_FFFFFF,t_70", "type": "image" },
+    { "url": "https://www.w3schools.com/html/movie.mp4", "type": "video" },
+    { "url": "https://img-blog.csdnimg.cn/20210823085631276.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xwbGo3MTc=,size_16,color_FFFFFF,t_70", "type": "image" }
+  ]
+}
